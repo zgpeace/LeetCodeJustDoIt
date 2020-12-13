@@ -1,7 +1,10 @@
 LeetCode
 ========
- 说明：前面字符串的索引为笔者CSDN的讲解，笔者会以每天2个算法的速度，快速补齐。
+ 说明：前面编号的链接为笔者CSDN的讲解，笔者会以每天2个算法的速度，快速补齐。
  比如[0290](https://blog.csdn.net/zgpeace/article/details/111089139) 的链接为 [https://blog.csdn.net/zgpeace/article/details/111089139](https://blog.csdn.net/zgpeace/article/details/111089139)
+ 
+ LeetCode全集请参考：[LeetCode Github 大全](https://github.com/zgpeace/LeetCodeJustDoIt)
+ 本网址
  
 
 | # | Title | c | c++ | python | go | js | java | Difficulty | Topic |
@@ -185,7 +188,7 @@ LeetCode
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | c | [c++](./src/0202-Happy-Number/0202.cpp) |[python](./src/0202-Happy-Number/0202.py)||| |Easy|
 |0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./src/0203-Remove-Linked-List-Elements/0203.cpp) |[python](./src/0203-Remove-Linked-List-Elements/0203.py)||| |Easy|
 |0204|[Count Primes](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./src/0204-Count-Primes/0204.cpp) |[python](./src/0204-Count-Primes/0204.py)||| |Easy|
-|0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | c | [c++](./src/0205-Isomorphic-Strings/0205.cpp) |[python](./src/0205-Isomorphic-Strings/0205.py)||| |Easy|
+|[0205](https://blog.csdn.net/zgpeace/article/details/111090431)|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | c | [c++](./src/0205-Isomorphic-Strings/0205.cpp) |[python](./src/0205-Isomorphic-Strings/0205.py)||| |Easy| Hash Table |
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c | [c++](./src/0206-Reverse-Linked-List/0206.cpp) |[python](./src/0206-Reverse-Linked-List/0206.py)||| |Easy|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | c | [c++](./src/0207-Course-Schedule/0207.cpp) |[python](./src/0207-Course-Schedule/0207.py)|[go](./src/0207-Course-Schedule/0207.go)|[js](./src/0207-Course-Schedule/0207.js)| |Medium|
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | c | [c++](./src/0208-Implement-Trie-(Prefix-Tree)/0208.cpp) |[python](./src/0208-Implement-Trie-(Prefix-Tree)/0208.py)||| |Medium|
