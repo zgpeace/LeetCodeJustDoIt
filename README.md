@@ -1,10 +1,12 @@
 LeetCode
 ========
+ 说明：前面字符串的索引为笔者CSDN的讲解，笔者会以每天2个算法的速度，快速补齐。
+ 比如[0290](https://blog.csdn.net/zgpeace/article/details/111089139) 的链接为 [https://blog.csdn.net/zgpeace/article/details/111089139](https://blog.csdn.net/zgpeace/article/details/111089139)
  
 
-| # | Title | c | c++ | python | go | js | java | Difficulty |
-|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|| |Easy|
+| # | Title | c | c++ | python | go | js | java | Difficulty | Topic |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|| |Easy| |
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c](./src/0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./src/0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./src/0002-Add-Two-Numbers/Add_Two_Numbers.go)|| |Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | c | [c++](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.py)|[go](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.go)|| |Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | c | [c++](./src/0004-Median-of-Two-Sorted-Arrays/0004.cpp) |[python](./src/0004-Median-of-Two-Sorted-Arrays/0004.py)||| |Hard|
@@ -227,7 +229,7 @@ LeetCode
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./src/0283-Move-Zeroes/0283.cpp) |[python](./src/0283-Move-Zeroes/0283.py)||| |Easy|
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)||| |Medium|
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/) | c | [c++](./src/0289-Game-of-Life/0289.cpp) |[python](./src/0289-Game-of-Life/0289.py)||| |Medium|
-|0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)||| |Easy|
+|[0290](https://blog.csdn.net/zgpeace/article/details/111089139)|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)||| |Easy| Hash Table| 
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | c | [c++](./src/0297-Serialize-and-Deserialize-Binary-Tree/0297.cpp) |[python](./src/0297-Serialize-and-Deserialize-Binary-Tree/0297.py)||[js](./src/0297-Serialize-and-Deserialize-Binary-Tree/0297.js)| |Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)||| |Medium|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | c | [c++](./src/0303-Range-Sum-Query-Immutable/0303.cpp) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)||| |Easy|
@@ -732,3 +734,6 @@ LeetCode
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|c|[c++](./src/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/1442.cpp)|[python](./src/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/1442.py)|[go](./src/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/1442.go)|[js](./src/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/1442.js)|[java](./src/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/1442.java)|Medium|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|c|[c++](./src/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/1443.cpp)|[python](./src/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/1443.py)|[go](./src/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/1443.go)|[js](./src/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/1443.js)|[java](./src/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/1443.java)|Medium|
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|c|[c++](./src/1444-Number-of-Ways-of-Cutting-a-Pizza/1444.cpp)|[python](./src/1444-Number-of-Ways-of-Cutting-a-Pizza/1444.py)|[go](./src/1444-Number-of-Ways-of-Cutting-a-Pizza/1444.go)|[js](./src/1444-Number-of-Ways-of-Cutting-a-Pizza/1444.js)|[java](./src/1444-Number-of-Ways-of-Cutting-a-Pizza/1444.java)|Hard|
+
+
+refer to: [https://github.com/luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode)
